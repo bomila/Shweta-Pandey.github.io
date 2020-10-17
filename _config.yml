@@ -1,3 +1,5 @@
 name: Shweta Pandey, Software Engineer!
 markdown: kramdown
 permalink: /blog/2020/10/17/Shweta-First-Blog
+
+theme: jekyll-theme-dinky
